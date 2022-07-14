@@ -1,3 +1,9 @@
+# Ignored listed files 
 new-file.txt
 
+# folder are ignored 
 bin/
+
+# Ignore all .tmp files 
+# * means any number of charaters 
+*.tmp
