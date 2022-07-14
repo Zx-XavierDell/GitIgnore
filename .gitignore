@@ -1,5 +1,5 @@
 # Ignored listed files 
-new-file.txt
+another-file.txt
 
 # folder are ignored 
 bin/
